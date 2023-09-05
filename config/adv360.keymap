@@ -73,7 +73,7 @@
         &trans   &trans           &trans    &trans      &trans    &trans    &trans                                                                       &trans    &trans    &trans    &trans    &trans    &trans    &kp SLASH 
         &trans   &hm APOSTROPHE LPAR   &hm COMMA RPAR   &hm PERIOD QMARK &kp P     &kp Y    &trans                                                      &trans    &kp F     &kp G     &kp C     &kp R     &kp L     &trans 
         &tog SYMBOLS   &kp A      &kp O     &kp E       &kp U     &kp I     &trans          &trans  &trans        &trans  &trans                         &trans    &kp D     &kp H     &kp T     &kp N     &kp S     &kp MINUS
-        &sk SHIFT &kp SEMICOLON   &kp Q     &kp J       &kp K     &kp X                             &mo NUMBERS   &trans                                           &kp B     &kp M     &kp W     &kp V     &kp Z     &trans
+        &sk LSHFT &kp SEMICOLON   &kp Q     &kp J       &kp K     &kp X                             &mo NUMBERS   &trans                                           &kp B     &kp M     &kp W     &kp V     &kp Z     &trans
         &trans    &trans          &trans    &kp EXCL    &kp EQUAL            &trans  &kp ESC        &kp DEL       &mo SYMBOLS    &kp ENTER &trans                               &kp HASH  &key_repeat    &trans    &trans    &trans
       >;
     };
