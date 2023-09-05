@@ -83,7 +83,7 @@
         &trans   &kp PERCENT  &kp UNDERSCORE &kp SLASH  &kp ASTRK &none     &trans                                                               &trans    &kp F     &kp G     &kp C     &kp R     &kp L     &trans 
         &tog SYMBOLS   &kp EXCL   &kp EQUAL  &kp AMPS   &kp PIPE  &kp CARET &trans          &trans  &trans      &trans  &trans                         &trans    &kp LPAR  &kp LPAR  &kp RPAR  &kp LBKT  &kp RBKT     &kp MINUS
         &sk LSHFT      &kp LT     &kp GT     &kp MINUS  &kp PLUS  &kp X                             &trans      &trans                                           &kp B     &kp M     &kp W     &kp V     &kp Z     &trans
-        &trans    &trans          &trans    &trans      &trans               &trans  &kp SHIFT     &kp DEL      &mo DVORAK     &kp ENTER &trans                            &trans    &trans    &trans    &trans    &trans
+        &trans    &trans          &trans     &trans     &trans               &trans  &kp LSHFT     &kp DEL      &mo DVORAK     &kp ENTER &trans                            &trans    &trans    &trans    &trans    &trans
       >;
     };
     keypad {
